@@ -1,6 +1,6 @@
-## Welcome to my landing page, home of Kurt Tetreault
+## Rising web developer, learning opportunities abounds!
 
-Thank you for taking the time to visit my page! I encourage you to bookmark this site to keep a record of my projects as I add them.
+A new language, a new life
 
 ### Languages I know:
 - HTML 5 with responsive design
@@ -12,8 +12,6 @@ Thank you for taking the time to visit my page! I encourage you to bookmark this
 
 
 ```markdown
-A new language is a new life. -Persian proverb
-
 # Header 1
 ## Header 2
 ### Header 3
