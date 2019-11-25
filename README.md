@@ -3,11 +3,11 @@
 Thank you for taking the time to visit my page! I encourage you to bookmark this site to keep a record of my projects as I add them.
 
 ### Languages I know:
--HTML 5 with responsive design
--CSS
--Javascript
--php
--bootstrap
+- HTML 5 with responsive design
+- CSS
+- Javascript
+- php
+- bootstrap
 
 
 
