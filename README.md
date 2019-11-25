@@ -1,15 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to my landing page, home of Kurt Tetreault
 
-You can use the [editor on GitHub](https://github.com/ktetreault01/ktetreault/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Thank you for taking the time to visit my page! I encourage you to bookmark this site to keep a record of my projects as I add them.
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+A new language is a new life. -Persian proverb
 
 # Header 1
 ## Header 2
