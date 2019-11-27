@@ -3,12 +3,15 @@ Hello, and thank you for taking the time to visit my page! Here is where I will 
 
 A new language, a new life -Persian proverb
 
-### Languages I know:
+### Computer Proficiencies
 - HTML 5 with responsive design
 - CSS
 - Javascript
 - php
 - bootstrap
+- Linux, terminal useage
+- SQL
+- Personal projects with Wordpress
 
 
 ## Contact Info
