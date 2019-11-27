@@ -1,5 +1,4 @@
-## Rising web developer, learning opportunities abounds!
-
+## Kurt Tetreault
 A new language, a new life
 
 ### Languages I know:
@@ -10,25 +9,7 @@ A new language, a new life
 - bootstrap
 
 
+## Contact Info
+- Phone: 386-279-3203
+- eMail: ktetreault01@gmail.com
 
-```markdown
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ktetreault01/ktetreault/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
